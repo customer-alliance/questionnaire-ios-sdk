@@ -1,0 +1,11 @@
+framework module CustomerAllianceFeedback {
+  umbrella header "CustomerAllianceFeedback.h"
+
+  export *
+  module * { export * }
+}
+
+module CustomerAllianceFeedback.Swift {
+    header "CustomerAllianceFeedback-Swift.h"
+    requires objc
+}
