@@ -30,7 +30,7 @@ function archive {
     -archivePath "${3}" \
     SKIP_INSTALL=NO \
     OBJROOT="${OBJROOT}/DependentBuilds" \
-    BASE_URL="http://questionnaire.master.ra.testing.customer-alliance.com/ca/embedded/"
+    BASE_URL="https://questionnaire.customer-alliance.com/ca/embedded/"
     BUILD_LIBRARY_FOR_DISTRIBUTION=YES
 }
 
