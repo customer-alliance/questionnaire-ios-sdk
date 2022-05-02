@@ -1,0 +1,4 @@
+framework module CustomerAllianceQuestionnaire {
+  header "CustomerAllianceQuestionnaire-Swift.h"
+  requires objc
+}

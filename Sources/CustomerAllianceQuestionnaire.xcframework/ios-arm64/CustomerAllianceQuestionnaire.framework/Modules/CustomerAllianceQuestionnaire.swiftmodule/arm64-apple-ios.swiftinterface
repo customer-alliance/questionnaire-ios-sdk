@@ -1,0 +1,36 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CustomerAllianceQuestionnaire
+import Foundation
+import Swift
+import UIKit
+import WebKit
+import _Concurrency
+public enum RatingType {
+  case star
+  case circle
+  case rectangle
+  public static func == (a: CustomerAllianceQuestionnaire.RatingType, b: CustomerAllianceQuestionnaire.RatingType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum Frequency {
+  case one
+  case infinite
+  public static func == (a: CustomerAllianceQuestionnaire.Frequency, b: CustomerAllianceQuestionnaire.Frequency) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public struct CASurveyManager {
+  public static let sharedManager: CustomerAllianceQuestionnaire.CASurveyManager
+  public func configure(primaryColor: UIKit.UIColor = UIColor(red: 59.0/255.0, green: 98.0/255.0, blue: 178.0/255.0, alpha: 1.0), headerAndTitleColor: UIKit.UIColor = UIColor.white, paragraphTextColor: UIKit.UIColor = UIColor(red: 88.0/255.0, green: 99.0/255.0, blue: 112.0/255.0, alpha: 1.0), shouldShowFooter: Swift.Bool = true, ratingStyle: CustomerAllianceQuestionnaire.RatingType = .rectangle, frequecyToSubmitForGivenHash: CustomerAllianceQuestionnaire.Frequency = .one, preferredLocale: Swift.String? = nil)
+  public func showSurveyPopUp(vc: UIKit.UIViewController, withHash hash: Swift.String)
+}
+extension CustomerAllianceQuestionnaire.RatingType : Swift.Equatable {}
+extension CustomerAllianceQuestionnaire.RatingType : Swift.Hashable {}
+extension CustomerAllianceQuestionnaire.Frequency : Swift.Equatable {}
+extension CustomerAllianceQuestionnaire.Frequency : Swift.Hashable {}
