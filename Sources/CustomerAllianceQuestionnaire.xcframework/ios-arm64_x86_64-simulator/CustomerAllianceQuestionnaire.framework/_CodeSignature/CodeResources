@@ -18,7 +18,7 @@
 		</data>
 		<key>CenterTextView.nib</key>
 		<data>
-		Dd19AKrjsSVVEr62xvRN1oIABlk=
+		CHth58Yg766u/khTVbNatNWGIJ8=
 		</data>
 		<key>ChoiceList.nib</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SXqNKBoQRefq3u+G+HPNVEh1jiU=
+		19rvqOiBf4+DPOwyW++6wcsal58=
 		</data>
 		<key>InputTextContainerView.nib</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/CustomerAllianceQuestionnaire.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rKzpPllLqlx7SJ/qHACCGVAHsnU=
+		vSTh1RA9KmOry1kekd5+KWdnYLg=
 		</data>
 		<key>Modules/CustomerAllianceQuestionnaire.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/CustomerAllianceQuestionnaire.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		rKzpPllLqlx7SJ/qHACCGVAHsnU=
+		vSTh1RA9KmOry1kekd5+KWdnYLg=
 		</data>
 		<key>Modules/CustomerAllianceQuestionnaire.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Modules/CustomerAllianceQuestionnaire.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2noHpn+4OEXp3Eog9wzKFPDksCU=
+		BZi1FlK9f3nDmHoPqM3jvuaaCQY=
 		</data>
 		<key>Modules/CustomerAllianceQuestionnaire.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/CustomerAllianceQuestionnaire.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		2noHpn+4OEXp3Eog9wzKFPDksCU=
+		BZi1FlK9f3nDmHoPqM3jvuaaCQY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -164,7 +164,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+P8MQ9ai1FGtq+g0Xwy/ApNh0bZKxVku52eOX192rro=
+			LPZ2PV3YLO5kR6f5RiG+3WIBy4Lywt8CLsu85WscxGY=
 			</data>
 		</dict>
 		<key>ChoiceList.nib</key>
@@ -234,7 +234,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/dqpdJKHgQ//r5TBk3tMgNHQFBkbXOxnTElOS4K0vMw=
+			nl0Ie3ZL2CJfwrD2fSiUOwZiZwGeScA17tYfQNJLJXk=
 			</data>
 		</dict>
 		<key>Modules/CustomerAllianceQuestionnaire.swiftmodule/arm64.swiftdoc</key>
@@ -255,7 +255,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/dqpdJKHgQ//r5TBk3tMgNHQFBkbXOxnTElOS4K0vMw=
+			nl0Ie3ZL2CJfwrD2fSiUOwZiZwGeScA17tYfQNJLJXk=
 			</data>
 		</dict>
 		<key>Modules/CustomerAllianceQuestionnaire.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -276,7 +276,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8sW+XA1EXQXI3r/Up1MJ6mWGvVO38d7vvcQCul3NvRs=
+			jzCjJI16WjMYYxh+tRnymVZGvmDLrHJJkl28zvUwyXs=
 			</data>
 		</dict>
 		<key>Modules/CustomerAllianceQuestionnaire.swiftmodule/x86_64.swiftdoc</key>
@@ -297,7 +297,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8sW+XA1EXQXI3r/Up1MJ6mWGvVO38d7vvcQCul3NvRs=
+			jzCjJI16WjMYYxh+tRnymVZGvmDLrHJJkl28zvUwyXs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
