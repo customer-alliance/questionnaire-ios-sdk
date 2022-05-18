@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name             = 'CustomerAllianceQuestionnaire'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'Customer Alliance Questionnaire SDK'
 
-  s.homepage         = 'https://github.com/customer-alliance/questionnaire-ios-sdk/tree/1.0.1'
+  s.homepage         = 'https://github.com/customer-alliance/questionnaire-ios-sdk/tree/1.0.2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Customer Alliance' => 'https://www.customer-alliance.com/' }
   s.source           = { :git => 'https://github.com/customer-alliance/questionnaire-ios-sdk.git', :tag => s.version.to_s }
