@@ -18,6 +18,7 @@ public enum RatingType {
   case star
   case circle
   case rectangle
+  case emoji
   public static func == (a: CustomerAllianceQuestionnaire.RatingType, b: CustomerAllianceQuestionnaire.RatingType) -> Swift.Bool
   public func hash(into hasher: inout Swift.Hasher)
   public var hashValue: Swift.Int {
@@ -27,18 +28,16 @@ public enum RatingType {
 public enum Frequency {
   case one
   case infinite
-  public static func == (a: CustomerAllianceQuestionnaire.Frequency, b: CustomerAllianceQuestionnaire.Frequency) -> Swift.Bool
-  public func hash(into hasher: inout Swift.Hasher)
-  public var hashValue: Swift.Int {
-    get
-  }
+  case answeredClosed([Swift.String : Any])
 }
+extension CustomerAllianceQuestionnaire.Frequency : Swift.Equatable {
+  public static func == (lhs: CustomerAllianceQuestionnaire.Frequency, rhs: CustomerAllianceQuestionnaire.Frequency) -> Swift.Bool
+}
+public func == (lhs: [Swift.String : Any], rhs: [Swift.String : Any]) -> Swift.Bool
 public struct CASurveyManager {
   public static let sharedManager: CustomerAllianceQuestionnaire.CASurveyManager
-  public func configure(primaryColor: UIKit.UIColor = UIColor(red: 59.0/255.0, green: 98.0/255.0, blue: 178.0/255.0, alpha: 1.0), headerAndTitleColor: UIKit.UIColor = UIColor.white, paragraphTextColor: UIKit.UIColor = UIColor(red: 88.0/255.0, green: 99.0/255.0, blue: 112.0/255.0, alpha: 1.0), shouldShowFooter: Swift.Bool = true, ratingStyle: CustomerAllianceQuestionnaire.RatingType = .rectangle, frequecyToSubmitForGivenHash: CustomerAllianceQuestionnaire.Frequency = .one, preferredLocale: Swift.String? = nil)
+  public func configure(primaryColor: UIKit.UIColor = UIColor(red: 59.0 / 255.0, green: 98.0 / 255.0, blue: 178.0 / 255.0, alpha: 1.0), headerAndTitleColor: UIKit.UIColor = UIColor.white, paragraphTextColor: UIKit.UIColor = UIColor(red: 88.0 / 255.0, green: 99.0 / 255.0, blue: 112.0 / 255.0, alpha: 1.0), shouldShowFooter: Swift.Bool = true, ratingStyle: CustomerAllianceQuestionnaire.RatingType = .rectangle, frequecyToSubmitForGivenHash: CustomerAllianceQuestionnaire.Frequency = .answeredClosed(["answered": 1, "closed": 1]), preferredLocale: Swift.String? = nil)
   public func showSurveyPopUp(vc: UIKit.UIViewController, withHash hash: Swift.String, attributes: [Swift.String : Any]? = [:])
 }
 extension CustomerAllianceQuestionnaire.RatingType : Swift.Equatable {}
 extension CustomerAllianceQuestionnaire.RatingType : Swift.Hashable {}
-extension CustomerAllianceQuestionnaire.Frequency : Swift.Equatable {}
-extension CustomerAllianceQuestionnaire.Frequency : Swift.Hashable {}
