@@ -1,0 +1,3165 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "RatingType",
+        "printedName": "RatingType",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "star",
+            "printedName": "star",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CustomerAllianceQuestionnaire.RatingType.Type) -> CustomerAllianceQuestionnaire.RatingType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RatingType",
+                    "printedName": "CustomerAllianceQuestionnaire.RatingType",
+                    "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CustomerAllianceQuestionnaire.RatingType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RatingType",
+                        "printedName": "CustomerAllianceQuestionnaire.RatingType",
+                        "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO4staryA2CmF",
+            "mangledName": "$s29CustomerAllianceQuestionnaire10RatingTypeO4staryA2CmF",
+            "moduleName": "CustomerAllianceQuestionnaire"
+          },
+          {
+            "kind": "Var",
+            "name": "circle",
+            "printedName": "circle",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CustomerAllianceQuestionnaire.RatingType.Type) -> CustomerAllianceQuestionnaire.RatingType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RatingType",
+                    "printedName": "CustomerAllianceQuestionnaire.RatingType",
+                    "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CustomerAllianceQuestionnaire.RatingType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RatingType",
+                        "printedName": "CustomerAllianceQuestionnaire.RatingType",
+                        "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO6circleyA2CmF",
+            "mangledName": "$s29CustomerAllianceQuestionnaire10RatingTypeO6circleyA2CmF",
+            "moduleName": "CustomerAllianceQuestionnaire"
+          },
+          {
+            "kind": "Var",
+            "name": "rectangle",
+            "printedName": "rectangle",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CustomerAllianceQuestionnaire.RatingType.Type) -> CustomerAllianceQuestionnaire.RatingType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RatingType",
+                    "printedName": "CustomerAllianceQuestionnaire.RatingType",
+                    "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CustomerAllianceQuestionnaire.RatingType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RatingType",
+                        "printedName": "CustomerAllianceQuestionnaire.RatingType",
+                        "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO9rectangleyA2CmF",
+            "mangledName": "$s29CustomerAllianceQuestionnaire10RatingTypeO9rectangleyA2CmF",
+            "moduleName": "CustomerAllianceQuestionnaire"
+          },
+          {
+            "kind": "Var",
+            "name": "emoji",
+            "printedName": "emoji",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CustomerAllianceQuestionnaire.RatingType.Type) -> CustomerAllianceQuestionnaire.RatingType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "RatingType",
+                    "printedName": "CustomerAllianceQuestionnaire.RatingType",
+                    "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CustomerAllianceQuestionnaire.RatingType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "RatingType",
+                        "printedName": "CustomerAllianceQuestionnaire.RatingType",
+                        "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO5emojiyA2CmF",
+            "mangledName": "$s29CustomerAllianceQuestionnaire10RatingTypeO5emojiyA2CmF",
+            "moduleName": "CustomerAllianceQuestionnaire"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "RatingType",
+                "printedName": "CustomerAllianceQuestionnaire.RatingType",
+                "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "RatingType",
+                "printedName": "CustomerAllianceQuestionnaire.RatingType",
+                "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s29CustomerAllianceQuestionnaire10RatingTypeO2eeoiySbAC_ACtFZ",
+            "moduleName": "CustomerAllianceQuestionnaire",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO9hashValueSivp",
+            "mangledName": "$s29CustomerAllianceQuestionnaire10RatingTypeO9hashValueSivp",
+            "moduleName": "CustomerAllianceQuestionnaire",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO9hashValueSivg",
+                "mangledName": "$s29CustomerAllianceQuestionnaire10RatingTypeO9hashValueSivg",
+                "moduleName": "CustomerAllianceQuestionnaire",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s29CustomerAllianceQuestionnaire10RatingTypeO4hash4intoys6HasherVz_tF",
+            "moduleName": "CustomerAllianceQuestionnaire",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO",
+        "mangledName": "$s29CustomerAllianceQuestionnaire10RatingTypeO",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Frequency",
+        "printedName": "Frequency",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "one",
+            "printedName": "one",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CustomerAllianceQuestionnaire.Frequency.Type) -> CustomerAllianceQuestionnaire.Frequency",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Frequency",
+                    "printedName": "CustomerAllianceQuestionnaire.Frequency",
+                    "usr": "s:29CustomerAllianceQuestionnaire9FrequencyO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CustomerAllianceQuestionnaire.Frequency.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Frequency",
+                        "printedName": "CustomerAllianceQuestionnaire.Frequency",
+                        "usr": "s:29CustomerAllianceQuestionnaire9FrequencyO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:29CustomerAllianceQuestionnaire9FrequencyO3oneyA2CmF",
+            "mangledName": "$s29CustomerAllianceQuestionnaire9FrequencyO3oneyA2CmF",
+            "moduleName": "CustomerAllianceQuestionnaire"
+          },
+          {
+            "kind": "Var",
+            "name": "infinite",
+            "printedName": "infinite",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CustomerAllianceQuestionnaire.Frequency.Type) -> CustomerAllianceQuestionnaire.Frequency",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Frequency",
+                    "printedName": "CustomerAllianceQuestionnaire.Frequency",
+                    "usr": "s:29CustomerAllianceQuestionnaire9FrequencyO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CustomerAllianceQuestionnaire.Frequency.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Frequency",
+                        "printedName": "CustomerAllianceQuestionnaire.Frequency",
+                        "usr": "s:29CustomerAllianceQuestionnaire9FrequencyO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:29CustomerAllianceQuestionnaire9FrequencyO8infiniteyA2CmF",
+            "mangledName": "$s29CustomerAllianceQuestionnaire9FrequencyO8infiniteyA2CmF",
+            "moduleName": "CustomerAllianceQuestionnaire"
+          },
+          {
+            "kind": "Var",
+            "name": "answeredClosed",
+            "printedName": "answeredClosed",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CustomerAllianceQuestionnaire.Frequency.Type) -> ([Swift.String : Any]) -> CustomerAllianceQuestionnaire.Frequency",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "([Swift.String : Any]) -> CustomerAllianceQuestionnaire.Frequency",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Frequency",
+                        "printedName": "CustomerAllianceQuestionnaire.Frequency",
+                        "usr": "s:29CustomerAllianceQuestionnaire9FrequencyO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Dictionary",
+                        "printedName": "[Swift.String : Any]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ProtocolComposition",
+                            "printedName": "Any"
+                          }
+                        ],
+                        "usr": "s:SD"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CustomerAllianceQuestionnaire.Frequency.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Frequency",
+                        "printedName": "CustomerAllianceQuestionnaire.Frequency",
+                        "usr": "s:29CustomerAllianceQuestionnaire9FrequencyO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:29CustomerAllianceQuestionnaire9FrequencyO14answeredClosedyACSDySSypGcACmF",
+            "mangledName": "$s29CustomerAllianceQuestionnaire9FrequencyO14answeredClosedyACSDySSypGcACmF",
+            "moduleName": "CustomerAllianceQuestionnaire"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Frequency",
+                "printedName": "CustomerAllianceQuestionnaire.Frequency",
+                "usr": "s:29CustomerAllianceQuestionnaire9FrequencyO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Frequency",
+                "printedName": "CustomerAllianceQuestionnaire.Frequency",
+                "usr": "s:29CustomerAllianceQuestionnaire9FrequencyO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:29CustomerAllianceQuestionnaire9FrequencyO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s29CustomerAllianceQuestionnaire9FrequencyO2eeoiySbAC_ACtFZ",
+            "moduleName": "CustomerAllianceQuestionnaire",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:29CustomerAllianceQuestionnaire9FrequencyO",
+        "mangledName": "$s29CustomerAllianceQuestionnaire9FrequencyO",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          }
+        ]
+      },
+      {
+        "kind": "Function",
+        "name": "==",
+        "printedName": "==(_:_:)",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "Bool",
+            "printedName": "Swift.Bool",
+            "usr": "s:Sb"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "Dictionary",
+            "printedName": "[Swift.String : Any]",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ProtocolComposition",
+                "printedName": "Any"
+              }
+            ],
+            "usr": "s:SD"
+          },
+          {
+            "kind": "TypeNominal",
+            "name": "Dictionary",
+            "printedName": "[Swift.String : Any]",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ProtocolComposition",
+                "printedName": "Any"
+              }
+            ],
+            "usr": "s:SD"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:29CustomerAllianceQuestionnaire2eeoiySbSDySSypG_ACtF",
+        "mangledName": "$s29CustomerAllianceQuestionnaire2eeoiySbSDySSypG_ACtF",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CASurveyManager",
+        "printedName": "CASurveyManager",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "sharedManager",
+            "printedName": "sharedManager",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CASurveyManager",
+                "printedName": "CustomerAllianceQuestionnaire.CASurveyManager",
+                "usr": "s:29CustomerAllianceQuestionnaire15CASurveyManagerV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:29CustomerAllianceQuestionnaire15CASurveyManagerV06sharedE0ACvpZ",
+            "mangledName": "$s29CustomerAllianceQuestionnaire15CASurveyManagerV06sharedE0ACvpZ",
+            "moduleName": "CustomerAllianceQuestionnaire",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CASurveyManager",
+                    "printedName": "CustomerAllianceQuestionnaire.CASurveyManager",
+                    "usr": "s:29CustomerAllianceQuestionnaire15CASurveyManagerV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:29CustomerAllianceQuestionnaire15CASurveyManagerV06sharedE0ACvgZ",
+                "mangledName": "$s29CustomerAllianceQuestionnaire15CASurveyManagerV06sharedE0ACvgZ",
+                "moduleName": "CustomerAllianceQuestionnaire",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "configure",
+            "printedName": "configure(primaryColor:headerAndTitleColor:paragraphTextColor:shouldShowFooter:ratingStyle:frequecyToSubmitForGivenHash:preferredLocale:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "hasDefaultArg": true,
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "hasDefaultArg": true,
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIColor",
+                "printedName": "UIKit.UIColor",
+                "hasDefaultArg": true,
+                "usr": "c:objc(cs)UIColor"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "RatingType",
+                "printedName": "CustomerAllianceQuestionnaire.RatingType",
+                "hasDefaultArg": true,
+                "usr": "s:29CustomerAllianceQuestionnaire10RatingTypeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Frequency",
+                "printedName": "CustomerAllianceQuestionnaire.Frequency",
+                "hasDefaultArg": true,
+                "usr": "s:29CustomerAllianceQuestionnaire9FrequencyO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:29CustomerAllianceQuestionnaire15CASurveyManagerV9configure12primaryColor014headerAndTitleH0013paragraphTextH016shouldShowFooter11ratingStyle28frequecyToSubmitForGivenHash15preferredLocaleySo7UIColorC_A2MSbAA10RatingTypeOAA9FrequencyOSSSgtF",
+            "mangledName": "$s29CustomerAllianceQuestionnaire15CASurveyManagerV9configure12primaryColor014headerAndTitleH0013paragraphTextH016shouldShowFooter11ratingStyle28frequecyToSubmitForGivenHash15preferredLocaleySo7UIColorC_A2MSbAA10RatingTypeOAA9FrequencyOSSSgtF",
+            "moduleName": "CustomerAllianceQuestionnaire",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "showSurveyPopUp",
+            "printedName": "showSurveyPopUp(vc:withHash:attributes:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:29CustomerAllianceQuestionnaire15CASurveyManagerV15showSurveyPopUp2vc8withHash10attributesySo16UIViewControllerC_SSSDySSypGSgtF",
+            "mangledName": "$s29CustomerAllianceQuestionnaire15CASurveyManagerV15showSurveyPopUp2vc8withHash10attributesySo16UIViewControllerC_SSSDySSypGSgtF",
+            "moduleName": "CustomerAllianceQuestionnaire",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:29CustomerAllianceQuestionnaire15CASurveyManagerV",
+        "mangledName": "$s29CustomerAllianceQuestionnaire15CASurveyManagerV",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CustomerAllianceQuestionnaire",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Optional",
+        "printedName": "Optional",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "isNil",
+            "printedName": "isNil",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:Sq29CustomerAllianceQuestionnaireE5isNilSbvp",
+            "mangledName": "$sSq29CustomerAllianceQuestionnaireE5isNilSbvp",
+            "moduleName": "CustomerAllianceQuestionnaire",
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:Sq29CustomerAllianceQuestionnaireE5isNilSbvg",
+                "mangledName": "$sSq29CustomerAllianceQuestionnaireE5isNilSbvg",
+                "moduleName": "CustomerAllianceQuestionnaire",
+                "genericSig": "<τ_0_0>",
+                "sugared_genericSig": "<Wrapped>",
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isSome",
+            "printedName": "isSome",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:Sq29CustomerAllianceQuestionnaireE6isSomeSbvp",
+            "mangledName": "$sSq29CustomerAllianceQuestionnaireE6isSomeSbvp",
+            "moduleName": "CustomerAllianceQuestionnaire",
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:Sq29CustomerAllianceQuestionnaireE6isSomeSbvg",
+                "mangledName": "$sSq29CustomerAllianceQuestionnaireE6isSomeSbvg",
+                "moduleName": "CustomerAllianceQuestionnaire",
+                "genericSig": "<τ_0_0>",
+                "sugared_genericSig": "<Wrapped>",
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:Sq",
+        "mangledName": "$sSq",
+        "moduleName": "Swift",
+        "genericSig": "<τ_0_0>",
+        "sugared_genericSig": "<Wrapped>",
+        "declAttributes": [
+          "Frozen"
+        ],
+        "isExternal": true,
+        "isEnumExhaustive": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByNilLiteral",
+            "printedName": "ExpressibleByNilLiteral",
+            "usr": "s:s23ExpressibleByNilLiteralP",
+            "mangledName": "$ss23ExpressibleByNilLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "AnyObject"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "EncodableWithConfiguration",
+            "printedName": "EncodableWithConfiguration",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "EncodingConfiguration",
+                "printedName": "EncodingConfiguration",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DependentMember",
+                    "printedName": "τ_0_0.EncodingConfiguration"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Foundation26EncodableWithConfigurationP",
+            "mangledName": "$s10Foundation26EncodableWithConfigurationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "DecodableWithConfiguration",
+            "printedName": "DecodableWithConfiguration",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "DecodingConfiguration",
+                "printedName": "DecodingConfiguration",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DependentMember",
+                    "printedName": "τ_0_0.DecodingConfiguration"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Foundation26DecodableWithConfigurationP",
+            "mangledName": "$s10Foundation26DecodableWithConfigurationP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/QuestionView.swift",
+      "kind": "FloatLiteral",
+      "offset": 556,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/QuestionView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 612,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/SelectTextFieldView.swift",
+      "kind": "FloatLiteral",
+      "offset": 832,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/SelectTextFieldView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 874,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/SelectTextFieldView.swift",
+      "kind": "FloatLiteral",
+      "offset": 986,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/CAStarButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 256,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/CAStarButton.swift",
+      "kind": "StringLiteral",
+      "offset": 293,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/CAStarButton.swift",
+      "kind": "StringLiteral",
+      "offset": 493,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/CAStarButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 203,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/CAStarButton.swift",
+      "kind": "StringLiteral",
+      "offset": 121,
+      "length": 12,
+      "value": "\"CustomerAllianceQuestionnaire.CAStarButton\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Helper\/HelperExtentions.swift",
+      "kind": "FloatLiteral",
+      "offset": 950,
+      "length": 4,
+      "value": "1.15"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Helper\/HelperExtentions.swift",
+      "kind": "FloatLiteral",
+      "offset": 1283,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Helper\/HelperExtentions.swift",
+      "kind": "FloatLiteral",
+      "offset": 1318,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/ModalContainerView.swift",
+      "kind": "Array",
+      "offset": 1243,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/ModalContainerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1453,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/ModalContainerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1812,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/ModalContainerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1841,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/ModalContainerView.swift",
+      "kind": "StringLiteral",
+      "offset": 1896,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/ModalContainerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10863,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/ModalContainerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10894,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/Loader\/CALoaderView.swift",
+      "kind": "FloatLiteral",
+      "offset": 218,
+      "length": 4,
+      "value": "20.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/Loader\/CALoaderView.swift",
+      "kind": "StringLiteral",
+      "offset": 1563,
+      "length": 20,
+      "value": "\"transform.rotation\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/Loader\/CALoaderView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1619,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/Loader\/CALoaderView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1665,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/Loader\/CALoaderView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1700,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/CARadioButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 293,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/CARadioButton.swift",
+      "kind": "StringLiteral",
+      "offset": 330,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/CARadioButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 525,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/CARadioButton.swift",
+      "kind": "StringLiteral",
+      "offset": 580,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/CARadioButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 702,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/CARadioButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 240,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Controller\/CAModalViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 187,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Controller\/CAModalViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 336,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Controller\/CAModalViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 904,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Controller\/CAModalViewController.swift",
+      "kind": "Dictionary",
+      "offset": 1019,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Controller\/CAModalViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1101,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Controller\/CAModalViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1217,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Controller\/CAModalViewController.swift",
+      "kind": "Array",
+      "offset": 1296,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Controller\/CAModalViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1369,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Controller\/CAModalViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1421,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Controller\/CAModalViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 3691,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Controller\/CAModalViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 3848,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Controller\/CAModalViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 129,
+      "length": 21,
+      "value": "\"CustomerAllianceQuestionnaire.CAModalViewController\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/SubmitResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 274,
+      "length": 15,
+      "value": "\"success_title\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/SubmitResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 324,
+      "length": 21,
+      "value": "\"success_description\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/SubmitResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 274,
+      "length": 15,
+      "value": "\"success_title\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/SubmitResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 324,
+      "length": 21,
+      "value": "\"success_description\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 228,
+      "length": 4,
+      "value": "59.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 233,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 247,
+      "length": 4,
+      "value": "98.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 252,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 265,
+      "length": 5,
+      "value": "178.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 271,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 285,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 332,
+      "length": 4,
+      "value": "59.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 337,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 351,
+      "length": 4,
+      "value": "98.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 356,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 369,
+      "length": 5,
+      "value": "178.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 375,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 389,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 524,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 530,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 544,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 550,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 563,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 569,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 583,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 640,
+      "length": 5,
+      "value": "241.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 646,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 660,
+      "length": 5,
+      "value": "242.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 666,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 679,
+      "length": 5,
+      "value": "244.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 685,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 699,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 746,
+      "length": 5,
+      "value": "226.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 752,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 766,
+      "length": 5,
+      "value": "229.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 772,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 785,
+      "length": 5,
+      "value": "233.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 791,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 805,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 852,
+      "length": 4,
+      "value": "88.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 857,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 871,
+      "length": 4,
+      "value": "99.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 876,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 889,
+      "length": 5,
+      "value": "112.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 895,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 909,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 956,
+      "length": 4,
+      "value": "45.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 961,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 975,
+      "length": 4,
+      "value": "50.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 980,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 993,
+      "length": 4,
+      "value": "57.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 998,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1012,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1066,
+      "length": 5,
+      "value": "246.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1072,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1086,
+      "length": 5,
+      "value": "247.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1092,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1105,
+      "length": 5,
+      "value": "249.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1111,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1125,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1187,
+      "length": 4,
+      "value": "88.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1192,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1206,
+      "length": 4,
+      "value": "99.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1211,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1224,
+      "length": 5,
+      "value": "112.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1230,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1244,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1295,
+      "length": 5,
+      "value": "198.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1301,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1315,
+      "length": 5,
+      "value": "203.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1321,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1334,
+      "length": 5,
+      "value": "210.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1340,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1354,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1405,
+      "length": 5,
+      "value": "217.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1411,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1425,
+      "length": 4,
+      "value": "77.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1430,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1443,
+      "length": 4,
+      "value": "83.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1448,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1462,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1513,
+      "length": 5,
+      "value": "246.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1519,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1533,
+      "length": 5,
+      "value": "214.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1539,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1552,
+      "length": 5,
+      "value": "215.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1558,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "FloatLiteral",
+      "offset": 1572,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1681,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1760,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1844,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1918,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1982,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2046,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2510,
+      "length": 36,
+      "value": "\"com.customeralliance.questionnaire\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2578,
+      "length": 9,
+      "value": "\"BaseUrl\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2604,
+      "length": 75,
+      "value": "\"http:\/\/questionnaire.master.ra.testing.customer-alliance.com\/ca\/embedded\/\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2746,
+      "length": 8,
+      "value": "\"Select\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2789,
+      "length": 10,
+      "value": "\"Required\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2845,
+      "length": 27,
+      "value": "\"Multiple Options selected\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 2917,
+      "length": 49,
+      "value": "\"This field is required. Try writing a response.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3011,
+      "length": 93,
+      "value": "\"This field requires a minimum of %min_characters% characters. Try typing a longer response.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3151,
+      "length": 50,
+      "value": "\"This field is required. Try selecting an option.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3242,
+      "length": 85,
+      "value": "\"We’re having trouble saving your response. Try submitting again in a few moments.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3354,
+      "length": 6,
+      "value": "\"Next\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3388,
+      "length": 7,
+      "value": "\"Close\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3424,
+      "length": 8,
+      "value": "\"Submit\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3459,
+      "length": 6,
+      "value": "\"Back\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3497,
+      "length": 12,
+      "value": "\"Powered by\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3578,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3613,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3658,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3692,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3728,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3761,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3798,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3877,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3984,
+      "length": 10,
+      "value": "\"answered\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3996,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 3998,
+      "length": 8,
+      "value": "\"closed\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4008,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "Dictionary",
+      "offset": 4108,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 4196,
+      "length": 19,
+      "value": "\"answeredDelayDate\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 4253,
+      "length": 17,
+      "value": "\"closedDelayDate\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 4307,
+      "length": 16,
+      "value": "\"isSurveyClosed\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 4355,
+      "length": 11,
+      "value": "\"frequency\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 4397,
+      "length": 10,
+      "value": "\"answered\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 4436,
+      "length": 8,
+      "value": "\"closed\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/Button\/CASecondaryButton.swift",
+      "kind": "StringLiteral",
+      "offset": 126,
+      "length": 17,
+      "value": "\"CustomerAllianceQuestionnaire.CASecondaryButton\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/Checkbox.swift",
+      "kind": "BooleanLiteral",
+      "offset": 290,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/Checkbox.swift",
+      "kind": "StringLiteral",
+      "offset": 327,
+      "length": 5,
+      "value": "\"✓\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/Checkbox.swift",
+      "kind": "StringLiteral",
+      "offset": 519,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/Checkbox.swift",
+      "kind": "BooleanLiteral",
+      "offset": 237,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 858,
+      "length": 24,
+      "value": "\"sub_element_conditions\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 858,
+      "length": 24,
+      "value": "\"sub_element_conditions\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 1268,
+      "length": 14,
+      "value": "\"rating_scale\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 1268,
+      "length": 14,
+      "value": "\"rating_scale\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 2099,
+      "length": 10,
+      "value": "\"required\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 2139,
+      "length": 16,
+      "value": "\"min_characters\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 2099,
+      "length": 10,
+      "value": "\"required\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 2139,
+      "length": 16,
+      "value": "\"min_characters\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 2724,
+      "length": 13,
+      "value": "\"website_url\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 2763,
+      "length": 12,
+      "value": "\"powered_by\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 2814,
+      "length": 26,
+      "value": "\"validation.text.required\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 2879,
+      "length": 27,
+      "value": "\"validation.text.too_short\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 2947,
+      "length": 28,
+      "value": "\"validation.choice.required\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3008,
+      "length": 19,
+      "value": "\"multiple_selected\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3064,
+      "length": 10,
+      "value": "\"required\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3106,
+      "length": 18,
+      "value": "\"submission_error\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 2724,
+      "length": 13,
+      "value": "\"website_url\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 2763,
+      "length": 12,
+      "value": "\"powered_by\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 2814,
+      "length": 26,
+      "value": "\"validation.text.required\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 2879,
+      "length": 27,
+      "value": "\"validation.text.too_short\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 2947,
+      "length": 28,
+      "value": "\"validation.choice.required\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3008,
+      "length": 19,
+      "value": "\"multiple_selected\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3064,
+      "length": 10,
+      "value": "\"required\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3106,
+      "length": 18,
+      "value": "\"submission_error\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3434,
+      "length": 24,
+      "value": "\"icon_caret_down_2x_png\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3485,
+      "length": 20,
+      "value": "\"icon_circle_2x_png\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3542,
+      "length": 31,
+      "value": "\"icon_customer_alliance_2x_png\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3599,
+      "length": 19,
+      "value": "\"icon_error_2x_png\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3646,
+      "length": 21,
+      "value": "\"icon_loading_2x_png\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3692,
+      "length": 18,
+      "value": "\"icon_star_2x_png\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3739,
+      "length": 23,
+      "value": "\"icon_star_fill_2x_png\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3793,
+      "length": 25,
+      "value": "\"icon_circle_fill_2x_png\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3434,
+      "length": 24,
+      "value": "\"icon_caret_down_2x_png\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3485,
+      "length": 20,
+      "value": "\"icon_circle_2x_png\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3542,
+      "length": 31,
+      "value": "\"icon_customer_alliance_2x_png\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3599,
+      "length": 19,
+      "value": "\"icon_error_2x_png\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3646,
+      "length": 21,
+      "value": "\"icon_loading_2x_png\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3692,
+      "length": 18,
+      "value": "\"icon_star_2x_png\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3739,
+      "length": 23,
+      "value": "\"icon_star_fill_2x_png\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Models\/Elements.swift",
+      "kind": "StringLiteral",
+      "offset": 3793,
+      "length": 25,
+      "value": "\"icon_circle_fill_2x_png\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/RatingContainerView.swift",
+      "kind": "Array",
+      "offset": 1739,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Helper\/PaddingLabel.swift",
+      "kind": "FloatLiteral",
+      "offset": 203,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Helper\/PaddingLabel.swift",
+      "kind": "FloatLiteral",
+      "offset": 253,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Helper\/PaddingLabel.swift",
+      "kind": "FloatLiteral",
+      "offset": 301,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Helper\/PaddingLabel.swift",
+      "kind": "FloatLiteral",
+      "offset": 350,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/PlainTextView.swift",
+      "kind": "StringLiteral",
+      "offset": 248,
+      "length": 30,
+      "value": "\"We appreciate your response.\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Helper\/CustomVisualEffectView.swift",
+      "kind": "StringLiteral",
+      "offset": 143,
+      "length": 22,
+      "value": "\"CustomerAllianceQuestionnaire.CustomVisualEffectView\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 911,
+      "length": 4,
+      "value": "59.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 918,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 932,
+      "length": 4,
+      "value": "98.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 939,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 952,
+      "length": 5,
+      "value": "178.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 960,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 974,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1069,
+      "length": 4,
+      "value": "88.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1076,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1090,
+      "length": 4,
+      "value": "99.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1097,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1110,
+      "length": 5,
+      "value": "112.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1118,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1132,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1163,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1266,
+      "length": 10,
+      "value": "\"answered\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1278,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1281,
+      "length": 8,
+      "value": "\"closed\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1291,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "Dictionary",
+      "offset": 3968,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Manager\/CASurveyManager.swift",
+      "kind": "Dictionary",
+      "offset": 8181,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/Button\/CAPrimaryButton.swift",
+      "kind": "StringLiteral",
+      "offset": 124,
+      "length": 15,
+      "value": "\"CustomerAllianceQuestionnaire.CAPrimaryButton\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/Error\/CAErrorView.swift",
+      "kind": "FloatLiteral",
+      "offset": 327,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/Error\/CAErrorLabel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 199,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/MultipleChoiceView.swift",
+      "kind": "StringLiteral",
+      "offset": 507,
+      "length": 36,
+      "value": "\"com.customeralliance.questionnaire\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/MultipleChoiceView.swift",
+      "kind": "StringLiteral",
+      "offset": 652,
+      "length": 20,
+      "value": "\"MultipleChoiceCell\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/MultipleChoiceView.swift",
+      "kind": "StringLiteral",
+      "offset": 715,
+      "length": 20,
+      "value": "\"multipleChoiceCell\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/MultipleChoiceView.swift",
+      "kind": "Array",
+      "offset": 855,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/MultipleChoiceView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 888,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/MultipleChoiceView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1134,
+      "length": 3,
+      "value": "0.3"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/MultipleChoiceView.swift",
+      "kind": "Array",
+      "offset": 930,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/ChoiceView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 306,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/ChoiceView.swift",
+      "kind": "FloatLiteral",
+      "offset": 420,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/ChoiceView.swift",
+      "kind": "FloatLiteral",
+      "offset": 539,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/ChoiceView.swift",
+      "kind": "FloatLiteral",
+      "offset": 678,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/InputTextContainerView.swift",
+      "kind": "FloatLiteral",
+      "offset": 409,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/InputTextContainerView.swift",
+      "kind": "FloatLiteral",
+      "offset": 460,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/InputTextContainerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 612,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/InputTextContainerView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 685,
+      "length": 2,
+      "value": "52"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/embedded-questionnaire-ios\/embedded-questionnaire-ios\/CustomerAllianceFeedback\/CustomerAllianceFeedback\/Views\/InputTextContainerView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 700,
+      "length": 4,
+      "value": "true"
+    }
+  ]
+}
